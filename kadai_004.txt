@@ -1,0 +1,12 @@
+PS C:\Users\imaok\OneDrive\git_challenge> git add hello_world.txt
+PS C:\Users\imaok\OneDrive\git_challenge> git commit -m "日本語追記"
+[main 7f974c4] 日本語追記
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+PS C:\Users\imaok\OneDrive\git_challenge> 
+
+PS C:\Users\imaok\OneDrive\git_challenge> git　log  
+commit 7f974c49d2888221af2f66639f41a479881b9652 (HEAD -> main)
+Author: otuotu806 <otuotu806@gmail.com>
+Date:   Tue Jun 27 18:25:36 2023 +0900
+
+    日本語追記
