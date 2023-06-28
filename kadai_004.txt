@@ -9,4 +9,10 @@ commit 7f974c49d2888221af2f66639f41a479881b9652 (HEAD -> main)
 Author: otuotu806 <otuotu806@gmail.com>
 Date:   Tue Jun 27 18:25:36 2023 +0900
 
-    日本語追記
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\imaok\OneDrive\git_challenge> git log --oneline
+a853534 (HEAD -> main, origin/main) kadai_004
+7f974c4 日本語追記
+c740b3c ここにコミットメッセージを入力
+f04c346 ここにコミットメッセージを入力
+PS C:\Users\imaok\OneDrive\git_challenge>    日本語追記
